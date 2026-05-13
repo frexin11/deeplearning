@@ -1,6 +1,6 @@
 {
 	"PyTorch MNIST Boilerplate": {
-		"prefix": "mantra",
+		"prefix": "mantra24",
 		"body": [
 			"# ============================================",
 			"# STEP 1 : DATA PREPARATION",
@@ -359,7 +359,7 @@
 	,
 	
 	"PyTorch CNN Boilerplate": {
-		"prefix": "cnnprev",
+		"prefix": "mantra25",
 		"body": [
 			"# ============================================",
 			"# CNN IMPLEMENTATION IN PYTORCH",
